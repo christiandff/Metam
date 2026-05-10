@@ -1,4 +1,4 @@
-MARBLE — Strength Training App
+MARBLE - Strength Training App
 Forged in Marble. Built in Iron.
 
 Overview
